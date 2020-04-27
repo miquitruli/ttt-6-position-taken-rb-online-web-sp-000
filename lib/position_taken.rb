@@ -9,6 +9,4 @@ def position_taken?(board, index)
     return(false)
   elsif board[index] == ""
     return(false)
-  else
-    return(false)
 end
